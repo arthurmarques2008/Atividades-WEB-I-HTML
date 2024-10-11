@@ -3,6 +3,6 @@
 Atividades da disciplina de Desenvolvimento Web I (parte de HTML)
 
 ### Atividades:
-- Atividade 1 : <blablabla>
-- Atividade 2 : <blablabla>
+- [Atividade1](/Atividades)
+- 
 - ...
